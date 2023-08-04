@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Gelson 👋 
 
-## I'm a Master's Student at IIIT, Bhubaneswar.
+## I'm a passionate AI enthusiast.
 
 - 🌱 I’m currently doing my research in deep learning and computer vision
 - 👯 I’m looking for an opportunity to work in a dynamic team
