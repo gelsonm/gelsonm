@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a passionate AI enthusiast.
 
-- 🌱 I’m currently doing my research in deep learning and computer vision
+- 🌱 I’m currently learning how to use AI on cloud
 - 👯 I’m looking for an opportunity to work in a dynamic team
 - 🥅 2023 Goals: Contribute more to open source
 - ⚡ Fun fact: I love competetive coding, drawing and making 3D Digital Art
