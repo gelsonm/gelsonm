@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for an opportunity to work in a fast paced team
 - 🥅 2024 Goals: Contribute more to open source
 - ⚡ Fun fact: I love competetive coding, drawing and making 3D Digital Art
-- 📫 How to reach me: gelsonvamp@gmail.com
+- 📫 How to reach me: gelson.moirang@gmail.com
 <!--
 - 😻 Check out the blender collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 -->
