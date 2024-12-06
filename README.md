@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Gelson 👋 
 
-## I'm a passionate AI enthusiast.
+## I'm a passionate AI enthusiast and a backend developer who loves creating innovative solutions.
 
 - 🌱 I’m currently learning how to build end to end AI projects
 - 👯 I’m looking for an opportunity to work in a fast paced team
 - 🥅 2024 Goals: Contribute more to open source
-- ⚡ Fun fact: I love competetive coding, drawing and making 3D Digital Art
+- ⚡ Fun fact: I love competetive coding, drawing, Mixed Martial Arts and making 3D Digital Art.
 - 📫 How to reach me: gelson.moirang@gmail.com
 <!--
 - 😻 Check out the blender collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
