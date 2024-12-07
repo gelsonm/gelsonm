@@ -16,9 +16,7 @@
 
 <h1 align="center">Hi, I am Gelson </h1>
 <h5 align="center">Data Scientist - Openstream | M.Tech - IIIT, Bhubaneswar | B.Tech - SIT, Tumkur </h5>
-<h5 align= "center"> I am a passionate AI enthusiast with hands-on experience in machine learning, deep learning, and backend engineering. I’ve developed real-time virtual assistants, emotion detection systems, and optimized chatbot architectures for multilingual support and performance. My work includes building advanced systems like knowledge base integration, speech synthesis, and real-time video streaming with a focus on efficiency and scalability.
-
-I have solved 400+ coding challenges on platforms like LeetCode, showcasing strong problem-solving skills. Outside work, I enjoy exploring creative projects in Blender.
+<h5 align= "center"> I am passionate about AI, skilled in ML, deep learning, and backend engineering. I have built virtual assistants, emotion detection systems, and agentic chatbots. I love solving coding problems (solved 400+ LeetCode problems) and making creative projects using Blender.
 
 </h5>
 </div>
