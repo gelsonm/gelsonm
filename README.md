@@ -26,9 +26,6 @@
 ## 🌐 Coding Profile:
 <div align="">
     <a href="https://leetcode.com/u/gelsonm/" target="blank"> LeetCode
-<!--         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-
-    </a> -->
 </div>
 
 ---
@@ -57,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats: -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonm&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" />
-</div>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonm&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" />
+</div> -->
