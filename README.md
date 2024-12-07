@@ -1,13 +1,16 @@
 <div align="center">
     <p>
         <a href="https://www.linkedin.com/in/gelsonm/" target="_blank">
-            <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+            <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a> 
         <a href="https://medium.com/@gelsonm" target="_blank">
             <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
         </a>
         <a href="https://gelsonm.github.io/portfolio/" target="_blank">
             <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%231E90FF.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+        </a>
+        <a href="https://dribbble.com/gelson_moirangthem" target="_blank">
+            <img alt="Artwork" src="https://img.shields.io/badge/artwork-%2312100E.svg?&style=for-the-badge&logo=dribbble&logoColor=white" />
         </a>
     </p>
 
