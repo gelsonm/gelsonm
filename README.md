@@ -22,8 +22,8 @@ I have solved 400+ coding challenges on platforms like LeetCode, showcasing stro
 
 ---
 
-## 🌐 Coding Profiles:
-<div align="center">
+## 🌐 Coding Profile:
+<div align="">
     <a href="https://leetcode.com/u/gelsonm/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
