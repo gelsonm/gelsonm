@@ -16,7 +16,7 @@
 
 <h1 align="center">Hi, I am Gelson </h1>
 <h5 align="center">Data Scientist - Openstream | M.Tech - IIIT, Bhubaneswar | B.Tech - SIT, Tumkur </h5>
-<h5 align= "center"> I am passionate about AI, have experience in ML, deep learning, and backend engineering. I have built virtual assistants, emotion detection systems, and agentic chatbots. I love solving coding problems (solved 400+ LeetCode problems) and making creative projects using Blender.
+<h5 align= "center"> I am passionate about AI, have experience build end-to-end AI projects. I have built virtual assistants, emotion detection systems, and agentic chatbots. I love solving coding problems (solved 400+ LeetCode problems) and making creative projects using Blender.
 
 </h5>
 </div>
