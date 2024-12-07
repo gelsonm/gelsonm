@@ -25,9 +25,10 @@
 
 ## 🌐 Coding Profile:
 <div align="">
-    <a href="https://leetcode.com/u/gelsonm/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    </a>
+    <a href="https://leetcode.com/u/gelsonm/" target="blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"> LeetCode
+<!--         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+
+    </a> -->
 </div>
 
 ---
