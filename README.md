@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 
 
 ---
-### ✨ [Portfolio Link](https://gelsonm.github.io/portfolio/)
-### ✨ [LeetCode Profile](https://leetcode.com/u/gelsonm/)
+### ✨ Portfolio - [Portfolio](https://gelsonm.github.io/portfolio/)
+### ✨ Coding - [LeetCode](https://leetcode.com/u/gelsonm/)
 ---
 
 <br />
